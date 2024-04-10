@@ -2,8 +2,8 @@
 // Created by Nika on 19/02/2024.
 //
 
-#ifndef M2OEP_ACCOUNT_H
-#define M2OEP_ACCOUNT_H
+#ifndef BANKING_SYSTEM_ACCOUNT_H
+#define BANKING_SYSTEM_ACCOUNT_H
 
 #include <string>
 
@@ -23,4 +23,4 @@ public:
     std::string getAccNumber() const;
 };
 
-#endif //M2OEP_ACCOUNT_H
+#endif //BANKING_SYSTEM_ACCOUNT_H
