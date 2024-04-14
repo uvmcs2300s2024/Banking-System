@@ -1,5 +1,7 @@
 # Banking-System
 
+Nika Kurdija
+
 ## Summary of the program
 
 This program is intended to represent a simple, yet effective banking system. It offers multiple options once the user runs it, listed in the Banking Menu. The options are: Create Account, Deposit, Withdraw, See Account Info, and Exit. 
