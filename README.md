@@ -10,11 +10,12 @@ The program also contains a testing part, with the intention to test the functio
 
 ## Languages used
 
-In the creation of this program, only C++ programming language is used. The main concept used throughout this program is inheritance.
+In the creation of this program, only C++ programming language is used. The main concept used throughout this program is inheritance class relationship.
 
 ### Inheritance in C++
 
-Inheritance in the capability of a class to derive properties and characteristics from another class.
+Inheritance can be described as the capability of a class to derive properties and characteristics from another class.
 It is also one of the most important features of object-oriented programming.
-Inheritance in my program can be seen from the fact that there are classes derived from the parent class, such as Account class.
+
+Inheritance in this program can be seen from the fact that there are classes derived from the parent class, such as Account class.
 The derived classes have inherited the properties of the parent class, with added properties, depending on the need and usage of each part of the program.
